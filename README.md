@@ -4,6 +4,7 @@ In this project, our goal is to design a fuzzy expert system to detect whether a
 # Run
 ```$ app.py```
 
+
 <img width="535" alt="Screen Shot 1401-04-12 at 10 43 44" src="https://user-images.githubusercontent.com/71961438/177027435-9324bd35-3232-4e0f-982c-2ca382c6d320.png">
 
 # Fuzzification
