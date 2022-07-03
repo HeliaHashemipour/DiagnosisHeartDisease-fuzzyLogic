@@ -4,7 +4,7 @@ In this project, our goal is to design a fuzzy expert system to detect whether a
 # Run
 ```$ app.py```
 
-![Uploading Screen Shot 1401-04-12 at 10.43.44.png…]()
+<img width="535" alt="Screen Shot 1401-04-12 at 10 43 44" src="https://user-images.githubusercontent.com/71961438/177027435-9324bd35-3232-4e0f-982c-2ca382c6d320.png">
 
 # Fuzzification
 To solve the problem with the help of fuzzy logic, it is necessary to convert our values from absolute to fuzzy (imprecise, relative). This is called fuzzification. For this purpose, fuzzy sets should be defined and according to the Fuzzification function, the degree of belonging of each value to the set should be calculated. For this purpose, the membership functions of the required sets are shown in the following figures: (For inputs such as sports activity, gender, and thallium, as explained above, since they only have crisp values, the graph is not given, but they must be included in the project.)
