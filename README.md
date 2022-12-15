@@ -1,3 +1,7 @@
+> Instructor: [Dr. M. M. Ebadzadeh](https://scholar.google.com/citations?user=080Y_lUAAAAJ&hl=en)
+
+> Semester: Spring 2022
+
 # Diagnosis Heart Disease
 
 In this project, our goal is to design a fuzzy expert system to detect whether a person has heart disease.
